@@ -1,0 +1,25 @@
+﻿body {
+	background:#DBF5CC;
+	}
+
+.center {
+	width: 300px;
+	height: 100px;
+	left: 50%;
+	top: 50%;
+	background:#C91D32;
+	overflow: auto;
+	position:absolute;
+	margin-left:-150px;
+	margin-top:-50px;
+	}
+
+.innerCenter {
+	color: white;
+	text-align: justify;
+	font-size: 20px;
+	text-indent: 1.5em;
+	padding: 10px;
+	hyphens: auto;
+	word-spacing: -5px;
+	}
